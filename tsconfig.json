@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "declaration": true,
+    "declarationMap": true,
+    "sourceMap": true,
+    "strict": true,
+    "composite": true,
+    "module": "commonjs",
+    "esModuleInterop": true,
+    "rootDir": "./",
+    "outDir": "./dist"
+  },
+  "exclude": ["node_modules", "dist"]
+}
